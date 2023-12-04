@@ -4,7 +4,7 @@
 ### A case where blindly using += in .NET C# would drive you crazy.
 
 <p align="center">
-  <!--<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*v5MgAVZJtSyCOTnkwvQyKA.png">-->
+  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*v5MgAVZJtSyCOTnkwvQyKA.png">
 </p>
 
 <br/>
