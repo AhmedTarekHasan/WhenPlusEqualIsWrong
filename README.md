@@ -1,4 +1,4 @@
-<link rel="canonical" href="https://levelup.gitconnected.com/when-using-is-not-good-in-net-c-d4e6bfd5c644?sk=27bf9601792ef7b4447fd860eb194441" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/when-using-is-not-good-in-net-c" />
 
 # When using += Is Not Good In .NET C#
 ### A case where blindly using += in .NET C# would drive you crazy.
