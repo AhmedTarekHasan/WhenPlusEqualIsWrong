@@ -4,7 +4,7 @@
 ### A case where blindly using += in .NET C# would drive you crazy.
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*v5MgAVZJtSyCOTnkwvQyKA.png">
+  <img src="https://static.wixstatic.com/media/488a99_3740362ab62945a294fa19f94721696a~mv2.png">
 </p>
 
 <br/>
@@ -59,4 +59,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://levelup.gitconnected.com/when-using-is-not-good-in-net-c-d4e6bfd5c644?sk=27bf9601792ef7b4447fd860eb194441
+[Article]: https://www.developmentsimplyput.com/post/when-using-is-not-good-in-net-c
